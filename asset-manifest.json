@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.cac0bfa6.chunk.css",
-    "main.js": "/static/js/main.bc47d93f.chunk.js",
-    "main.js.map": "/static/js/main.bc47d93f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.95fd1fca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.95fd1fca.js.map",
-    "static/css/2.6ef2fac9.chunk.css": "/static/css/2.6ef2fac9.chunk.css",
-    "static/js/2.acc1a6a8.chunk.js": "/static/js/2.acc1a6a8.chunk.js",
-    "static/js/2.acc1a6a8.chunk.js.map": "/static/js/2.acc1a6a8.chunk.js.map",
-    "static/js/3.619f1d2c.chunk.js": "/static/js/3.619f1d2c.chunk.js",
-    "static/js/3.619f1d2c.chunk.js.map": "/static/js/3.619f1d2c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.6ef2fac9.chunk.css.map": "/static/css/2.6ef2fac9.chunk.css.map",
-    "static/css/main.cac0bfa6.chunk.css.map": "/static/css/main.cac0bfa6.chunk.css.map",
-    "static/js/2.acc1a6a8.chunk.js.LICENSE.txt": "/static/js/2.acc1a6a8.chunk.js.LICENSE.txt",
-    "static/media/profile.0c04082c.png": "/static/media/profile.0c04082c.png"
+    "main.css": "/first-porto/static/css/main.cac0bfa6.chunk.css",
+    "main.js": "/first-porto/static/js/main.d6ee383b.chunk.js",
+    "main.js.map": "/first-porto/static/js/main.d6ee383b.chunk.js.map",
+    "runtime-main.js": "/first-porto/static/js/runtime-main.053ecc3a.js",
+    "runtime-main.js.map": "/first-porto/static/js/runtime-main.053ecc3a.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/first-porto/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.acc1a6a8.chunk.js": "/first-porto/static/js/2.acc1a6a8.chunk.js",
+    "static/js/2.acc1a6a8.chunk.js.map": "/first-porto/static/js/2.acc1a6a8.chunk.js.map",
+    "static/js/3.619f1d2c.chunk.js": "/first-porto/static/js/3.619f1d2c.chunk.js",
+    "static/js/3.619f1d2c.chunk.js.map": "/first-porto/static/js/3.619f1d2c.chunk.js.map",
+    "index.html": "/first-porto/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/first-porto/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.cac0bfa6.chunk.css.map": "/first-porto/static/css/main.cac0bfa6.chunk.css.map",
+    "static/js/2.acc1a6a8.chunk.js.LICENSE.txt": "/first-porto/static/js/2.acc1a6a8.chunk.js.LICENSE.txt",
+    "static/media/profile.0c04082c.png": "/first-porto/static/media/profile.0c04082c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.95fd1fca.js",
+    "static/js/runtime-main.053ecc3a.js",
     "static/css/2.6ef2fac9.chunk.css",
     "static/js/2.acc1a6a8.chunk.js",
     "static/css/main.cac0bfa6.chunk.css",
-    "static/js/main.bc47d93f.chunk.js"
+    "static/js/main.d6ee383b.chunk.js"
   ]
 }
